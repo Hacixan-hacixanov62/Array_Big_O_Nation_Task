@@ -1,0 +1,14 @@
+C:\C# (PB-202)\Array_Task\Array_Task\bin\Debug\net6.0\Array_Task.exe
+C:\C# (PB-202)\Array_Task\Array_Task\bin\Debug\net6.0\Array_Task.deps.json
+C:\C# (PB-202)\Array_Task\Array_Task\bin\Debug\net6.0\Array_Task.runtimeconfig.json
+C:\C# (PB-202)\Array_Task\Array_Task\bin\Debug\net6.0\Array_Task.dll
+C:\C# (PB-202)\Array_Task\Array_Task\bin\Debug\net6.0\Array_Task.pdb
+C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\Array_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\Array_Task.AssemblyInfoInputs.cache
+C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\Array_Task.AssemblyInfo.cs
+C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\Array_Task.csproj.CoreCompileInputs.cache
+C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\Array_Task.dll
+C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\refint\Array_Task.dll
+C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\Array_Task.pdb
+C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\Array_Task.genruntimeconfig.cache
+C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\ref\Array_Task.dll
