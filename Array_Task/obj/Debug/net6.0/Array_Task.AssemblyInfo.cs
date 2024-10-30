@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Array_Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e61b775cdad30bef0be39fa10955d419771949eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Array_Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Array_Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

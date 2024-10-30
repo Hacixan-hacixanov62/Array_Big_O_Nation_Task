@@ -12,3 +12,4 @@ C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\refint\Array_Task.dll
 C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\Array_Task.pdb
 C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\Array_Task.genruntimeconfig.cache
 C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\ref\Array_Task.dll
+C:\C# (PB-202)\Array_Task\Array_Task\obj\Debug\net6.0\Array_Task.sourcelink.json

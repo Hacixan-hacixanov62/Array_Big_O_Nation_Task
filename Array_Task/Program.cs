@@ -66,7 +66,7 @@
 
 //if (array.Length > 0)
 //{
-//     sum = array[0] + array[array.Length - 1];
+//    sum = array[0] + array[array.Length - 1];
 //    Console.WriteLine("The sum of the first and last elements is: " + sum);
 //}
 //else
@@ -140,26 +140,32 @@
 //(meselen 50 axtaririq egər siyahıda 50 ədədi yoxdursa -1 print olsun, varsa var olduğu index)
 
 
-//int[] arr = { 1, 2, 4, 5, 7, 8, 12, 14, 21 };
-//bool LienarSearch(int[] arr, int result)
+//Console.WriteLine("Arrayin uzunlugunu daxil edin :");
+//int length =int.Parse(Console.ReadLine());
+
+//int[] numbers = new int[length];
+//for (int i = 0; i < numbers.Length; i++)
 //{
-//    for (int i = 0; i < arr.Length; i++)
-//    {
-//        return true;
-
-//    }
-//    return false;
+//    Console.WriteLine($"enter {i+1} ci ededi daxil edin");
+//    int num = int.Parse(Console.ReadLine());
+//    numbers[i] = num;
 //}
-//Console.WriteLine(LienarSearch(arr,0));
-
-
-
-
-
-
-
-
-
+//int index = -1;
+//for (int i = 0; i < numbers.Length; i++)
+//{
+//    if (numbers[i] == 50)
+//    {
+//        index = i;
+//    }
+//}
+//if(index != -1)
+//{
+//    Console.WriteLine(index);
+//}
+//else
+//{
+//    Console.WriteLine(index);
+//}
 
 
 
